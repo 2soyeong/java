@@ -3,11 +3,11 @@ package _01_casting;
 public class T03_castingOp {
 
 	public static void main(String[] args) {
-		// int 형보다 작은 자료형의 연산은 모두 int로 자동 형변환 됨
+		// int형보다 작은 자료형의 연산은 모두 int로 자동 형변환 됨
 		byte b1 = 10;
 		byte b2 = 20;
 		
-		// byte result = b1 + b2;  오류   byte형 = int형
+		// byte result = b1 + b2;  오류  byte형 = int형
 		int result = b1 + b2;
 		byte result2 = (byte)(b1 + b2);
 		
@@ -32,7 +32,7 @@ public class T03_castingOp {
 		double = int / double
 		double = double / int
 		double = double / double
-		*/		
+		*/
 		
 	    num1 = 100;
 		num2 = 3;

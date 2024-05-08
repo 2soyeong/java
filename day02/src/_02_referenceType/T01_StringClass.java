@@ -3,7 +3,7 @@ package _02_referenceType;
 public class T01_StringClass {
 
 	public static void main(String[] args) {
-		String name = "홍길동";
+		String name = "이소영";
 		String hobby = "공부하기";
 		
 		System.out.println("주소가 같은가? " + (name == hobby));
