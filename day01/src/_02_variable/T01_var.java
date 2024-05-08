@@ -32,7 +32,7 @@ public class T01_var {
 		// 변수를 하나 만들어 sum + 5 를 한 결과를 넣으시오. 그리고 출력하시오
 		
 		int num3 = sum + 5;
-		System.out.println(num6);
+		System.out.println(num3);
 		
 		long long01 = 500000000000000L;
 		
