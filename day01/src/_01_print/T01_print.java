@@ -13,7 +13,6 @@ public class T01_print {
 				/* ctrl + shift + / */
 	
 		
-		
 		// 출력문 : println -> 출력후 줄바꿈
 		//문자열을 출력할 때는 반드시 쌍따음표("") 를 넣어준다.
 		System.out.println("더조은 컴퓨터 학원");
@@ -25,7 +24,7 @@ public class T01_print {
 		// + 기호는 숫자였을 때는 연산을 하고
 		//   문자열 이였을 때는 문자들을 연결				
 		System.out.println(5+3+"문자열 연결");
-		System.out.println("강의실 :" + "801호");
+		System.out.println("강의실 : " + "801호");
 		System.out.println("강의실 : "+ " 801호");
 		
 		// 문자열 뒤에 + 기호가 나오면 그 뒤는 모두 문자로 인식(문자연결)		

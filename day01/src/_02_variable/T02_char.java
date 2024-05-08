@@ -15,7 +15,7 @@ public class T02_char {
 		char ch5 = 'C';
 		//	char ch6 = ch5 + 1;  자동형변환 때문에 오류	
 		
-		char ch7 = 'A' + '1';  // A의 유니코드(65)+1의
+		char ch7 = 'A' + '1';  // A의 유니코드(65)+ 1의 유니코드(49) = 114
 		System.out.println(ch7);
 	}
 
