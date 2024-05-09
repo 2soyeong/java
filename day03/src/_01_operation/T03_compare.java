@@ -12,7 +12,6 @@ public class T03_compare {
 		System.out.println("num1과 num2의 값이 같은가? " + (num1 != num2));
 		
 		
-
 	}
 
 }
