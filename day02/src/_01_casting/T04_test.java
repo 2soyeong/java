@@ -6,7 +6,6 @@ public class T04_test {
 
 	public static void main(String[] args) {
 		//1
-		
 		Scanner scan = new Scanner(System.in);
 		System.out.print("문자 1개 입력 : ");
 		char ch = scan.next().charAt(0);
